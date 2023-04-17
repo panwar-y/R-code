@@ -1,3 +1,6 @@
+# This is a draft for qPCR app designed for Bio-Analytical Distribution Team.
+
+#Loading Required Libraries
 library(gtsummary)
 library(tidyverse)
 library(janitor)
